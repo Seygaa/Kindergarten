@@ -1,3 +1,6 @@
+Zadanie wykonane w ramach przedmiotu "Programowanie w Java". Szkielet aplikacji dostarczony był przez Pana Arkadiusza Sokołowskiego ( https://www.linkedin.com/in/arkadiusz-soko%C5%82owski-3a07862b/ ), prowadzącego zajęcia.
+
+
 ## Zadanie do wykładu 6 - Przedszkolaki na obiedzie
 
 W Przedszkolu "Bajtek" nadeszła pora obiadu. Dzieci jak zwykle umyły ręce i radośnie podbiegły do stołu.
